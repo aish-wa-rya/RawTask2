@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286510180144",
+    "project_id": "habitlog-9581e",
+    "storage_bucket": "habitlog-9581e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286510180144:android:a4558aeea6ba389a508af5",
+        "android_client_info": {
+          "package_name": "com.krer.habitlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286510180144-c1h5eaksbave757u314cc5epcipttmii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krer.habitlog",
+            "certificate_hash": "c221a646a485ac3e74824a7a5190baba92020446"
+          }
+        },
+        {
+          "client_id": "286510180144-1oentg5imq7gfn8b7tt0jsms54f0nua1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIj14mqiOMkySU9vZgCu1gamjUKauJiGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286510180144-1oentg5imq7gfn8b7tt0jsms54f0nua1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
