@@ -1,4 +1,4 @@
-# Raw Task: Habit Log Log
+# Raw Task: Habit Log 
 
 An simple Flutter application used for tracking daily habits
 
