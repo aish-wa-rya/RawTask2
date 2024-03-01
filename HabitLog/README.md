@@ -1,8 +1,6 @@
-# Habit Log
+# Raw Task: Habit Log Log
 
 An simple Flutter application used for tracking daily habits
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
